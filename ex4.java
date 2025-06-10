@@ -30,11 +30,12 @@ Code, Compile, Run and Debug online from anywhere in world.
     }
 }
 
+
 public class Main
 {
 	public static void main(String[] args) {
 	   Cao cao1;
-	   cao1 =  new Cao("Alfa","alfa",24);
+	   cao1 =  new Cao("Mega","Grande",24);
 		System.out.println(cao1.getNome());
 	}
 }
